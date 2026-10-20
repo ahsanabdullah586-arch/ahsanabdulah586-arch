@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Abdullah Malik 👋
 
-🎓 BS Computer Science Student from Pakistan
+ BS Computer Science Student from Pakistan
 
 I'm passionate about Artificial Intelligence, Web Development, and App Development. I enjoy learning new technologies and building practical projects using AI tools.
 
