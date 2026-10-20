@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Abdullah Malik 👋
+# Hi, I'm Mohammad Abdullah Malik 
 
  BS Computer Science Student from Pakistan
 
